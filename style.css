@@ -1,8 +1,6 @@
 hr {
-  border-block-end-width: 5px;
   border-block-end-color: goldenrod;
   border-block-start-color: goldenrod;
-  max-width: 500px;
 }
 
 p{
