@@ -1,0 +1,40 @@
+hr {
+  border-block-end-width: 5px;
+  border-block-end-color: goldenrod;
+  border-block-start-color: goldenrod;
+  max-width: 500px;
+}
+
+p{
+  font-style: italic;
+  font-family: arial
+}
+
+html{
+  background: lightgoldenrodyellow;
+}
+img {
+  border-block-end-color: gold;
+  border-block-end-width: 5px;
+}
+
+a{
+  color: blue;
+  background-color: lightgreen;
+}
+p1,p2,p3,p4{
+  font-family: arial;
+}
+h1,h2{
+  font-family: arial;
+}
+a:active {
+  color: black;
+  background-color: lightgrey;
+}
+a:hover {
+  color: blueviolet;
+}
+a:visited {
+  color: crimson;
+}
